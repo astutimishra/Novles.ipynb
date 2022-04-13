@@ -1,5 +1,5 @@
                     #skill-india-AI_ML-Scholarship
-This repository is having all te codes used in AL-ML Skill India on inventory management system
+This repository is having all the codes used in AL-ML Skill India on inventory management system
 ---------
                     ###About the repository
 you will learn JSON,NoSQL,Databases,File handling
